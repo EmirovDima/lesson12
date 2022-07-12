@@ -1,0 +1,23 @@
+.body {
+    margin: 0;
+}
+.container {
+display: flex;
+    font-family: 'Oswald', sans-serif;
+}
+.one {
+        display: block;
+        text-align: center;
+        background-color: #6161DE;
+        color: white;
+        text-transform: uppercase;
+        width: 25%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        
+        text-decoration: none;
+        transition: 0.4s;
+}
+.one:hover {
+    background-color: #7777FF;
+}
